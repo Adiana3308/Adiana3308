@@ -1,12 +1,5 @@
 # <div align="center">🌟 Hi there! I'm Aditi Sudhir Ghate 🌟</div>
 
-<div align="center" style="margin:100px;">
-  <a href="https://github.com/aditighate003"><img src="https://api.daily.dev/devcards/v2/Sm23icw2c1JxefWyBUCKJ.png?type=wide&r=iu4" width="652" alt="Aditi Sudhir Ghate's Dev Card"/></a>
-</div>
-<br>
-<div align="center">  
-  ![](https://komarev.com/ghpvc/?username=aditighate003&color=blueviolet)
-</div>
 
 <br>
 
