@@ -5,12 +5,22 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adiana3308" alt="adiana3308" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🔭 I’m currently working on **Building real-time applications with ReactJS, NextJS, and enhancing my backend skills with NodeJS.**
+
+- 🌱 I’m currently learning **NodeJS, Docker, and improving my problem-solving skills on coding platforms.**
+
+- 👯 I’m looking to collaborate on **Open-source projects that focus on frontend development, real-time applications, or full-stack solutions.**
+
+- 🤝 I’m looking for help with **Expanding my knowledge in cloud computing and server-side development with NodeJS and Docker.**
+
+- 💬 Ask me about **Books 📖**
 
 - 📫 How to reach me **aditighate003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/aditighate1701" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aditighate1701" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/aditighate17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aditighate17/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
