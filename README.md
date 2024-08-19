@@ -1,85 +1,101 @@
-# <div align="center">🌟 Hi there! I'm Aditi Sudhir Ghate 🌟</div>
+<h1 align="center">Hi 👋, I'm Aditi Sudhir Ghate</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-
-<br>
-
-- 🌱 Passionate about solving coding challenges and creating engaging web applications.
-
-- 💬 Ask me about **ReactJS, NextJS, creative problem-solving, or my latest projects**
-
-- 📫 Reach me at **aditighate003@gmail.com**
-
-- 👨‍💻 Explore my work and projects on my **[Portfolio](https://yourportfolio.com)**
-
-- ⚡ <b><i>Turning complex problems into exciting opportunities is my superpower!</i></b>
-
-<br>
-
-## <div align="center" color="purple">Here's a glimpse of me in JSX <img src="https://media1.giphy.com/avatars/Care-Kita-App/akADEkX6AvR3.gif" alt="tux" height="45" width="40"></div>
-
-```jsx
-import React from "react";
-
-const Aditi = () => {
-  const aboutMe = {
-    realName: "Aditi Sudhir Ghate",
-    pronouns: "She | Her",
-    passions: ["Coding Challenges", "Creative Web Development", "Exploring New Technologies"],
-    belief:
-      "Every challenge is an opportunity to learn and grow!",
-  };
-
-  return (
-    <div>
-      <h2>Hello! I am {aboutMe.realName}.</h2>
-      <p>My pronouns are {aboutMe.pronouns}</p>
-      <p>My passions include: {aboutMe.passions.join(", ")}</p>
-      <p>I believe that {aboutMe.belief}</p>
-    </div>
-  );
-};
-export default Aditi;
-```
-<br> <br>
-
-<div align="center">
-📊 GitHub Stats 📊
-
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=aditighate003&show_icons=true&theme=midnight-purple" alt="Aditi's GitHub stats" height="160"> 
-    &nbsp; &nbsp; 
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=aditighate003&theme=midnight-purple" alt="Aditi's GitHub streak" height="160">
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=adiana3308&label=Profile%20views&color=0e75b6&style=flat" alt="adiana3308" />
 </p>
-<br> <be>
 
-🏆 GitHub Trophies 🏆
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=adiana3308" alt="adiana3308" />
+  </a>
+</p>
 
-<br> <be>
+- 🔭 I’m currently working on **Building real-time applications with ReactJS, NextJS, and enhancing my backend skills with NodeJS.**
+- 🌱 I’m currently learning **NodeJS, Docker, and improving my problem-solving skills on coding platforms.**
+- 👯 I’m looking to collaborate on **Open-source projects that focus on frontend development, real-time applications, or full-stack solutions.**
+- 🤝 I’m looking for help with **Expanding my knowledge in cloud computing and server-side development with NodeJS and Docker.**
+- 💬 Ask me about **Books 📖**
+- 📫 How to reach me: **aditighate003@gmail.com**
 
-⚙️ Skill Set ⚙️
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/aditighate1701" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditighate1701" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/aditighate17/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditighate17" height="30" width="40" />
+  </a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://appwrite.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+</p>
+
 <p align="center">
-    <!-- ReactJS -->
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dduur8qoo/image/upload/v1685246544/reactjs_tv42ar.png" alt="react" height="45"/></a> &nbsp;
-    <!-- NodeJS -->
-    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="nodejs" height="45"/></a> &nbsp;
-    <!-- Docker -->
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2023/05/symbol_blue-docker-logo.png" alt="docker" height="35"/> </a> &nbsp;
-    <!-- Git -->
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dduur8qoo/image/upload/v1683522879/git_pjie4r.png" alt="git" height="45"/></a> &nbsp;
-    <!-- Tailwind CSS -->
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Tailwind_CSS_logo.svg/1280px-Tailwind_CSS_logo.svg.png" alt="tailwind" height="40"/></a> &nbsp;
-    <!-- Bootstrap -->
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="bootstrap" height="40"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adiana3308&show_icons=true&locale=en&layout=compact" alt="adiana3308" />
 </p>
-<br>
-💬 Connect with Me 💬
-<p align="center">
-  <!-- LinkedIn -->
-  &nbsp; <a href="https://www.linkedin.com/in/aditi-sudhir-ghate/" target="_blank"><img align="center" src="https://res.cloudinary.com/dduur8qoo/image/upload/v1685247353/linkedin_mg2ujv.png" alt="aditi-sudhir-ghate" height="30" width="30" /></a> &nbsp;
-  <!-- Twitter -->
-  <a href="https://twitter.com/AditiSudhirGhate" target="_blank"><img align="center" src="https://res.cloudinary.com/dduur8qoo/image/upload/v1685247353/twitter-removebg-preview_qmm0f4.png" alt="AditiSudhirGhate" height="30" width="30" /></a>
-</p>
-<br> <br>
 
-🔮 Holopin Dashboard 🔮
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adiana3308&" alt="adiana3308" />
+</p>
