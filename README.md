@@ -38,8 +38,8 @@ const Aditi = () => {
     </div>
   );
 };
-
 export default Aditi;
+```
 <br> <br>
 
 <div align="center">
