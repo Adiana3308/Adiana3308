@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Aditi Ghate</h1>
-
-<p align="center">
-  <img src="https://www.wallpapers13.com/wp-content/uploads/2018/06/Purple-Galaxy-Space-Wallpaper-HD-for-Desktop-mobile-phones-laptops-and-tablets-3840x2400.jpg" width="30%"/>
-</p>
-
-
-<p align="center">
-💻 Associate Software Engineer @Accenture <br>
-👩‍🎓 IT Graduate ’24 from WCE, Sangli <br>
-👩‍💻 I like to code <br>
-⚡ Data Structures and Algorithms <br>
-🛠️ Learning Big Data Tools: Hadoop, Spark, Hive, Kafka, MapReduce
-</p>
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: middle; width: 70%;">
+      💻 Associate Software Engineer @Accenture <br>
+      👩‍🎓 IT Graduate ’24 from WCE, Sangli <br>
+      👩‍💻 I like to code <br>
+      ⚡ Data Structures and Algorithms<br>
+      🛠️ Learning Big Data Tools: Hadoop, Spark, Hive, Kafka, MapReduce
+    </td>
+    <td style="text-align: right; width: 30%;">
+      <img src="https://www.wallpapers13.com/wp-content/uploads/2018/06/Purple-Galaxy-Space-Wallpaper-HD-for-Desktop-mobile-phones-laptops-and-tablets-3840x2400.jpg" width="300"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adiana3308)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adiana3308)
 
 ---
 
@@ -49,10 +49,9 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adiana3308&theme=radical&show_icons=true&hide_border=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adiana3308&theme=radical&hide_border=false" width="48%" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiana3308&theme=radical&layout=compact&hide_border=false" width="60%" />
+  ![]( https://github-readme-stats.vercel.app/api?username=adiana3308&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)
+  ![]( https://github-readme-streak-stats.herokuapp.com/?user=adiana3308&theme=default_repocard&hide_border=false)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adiana3308&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 ---
