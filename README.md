@@ -2,11 +2,15 @@
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: middle; width: 70%;">
-      💻 Associate Software Engineer @Accenture <br>
+      🌟 Software Engineer with a love for building, solving & learning <br>
       👩‍🎓 IT Graduate ’24 from WCE, Sangli <br>
-      👩‍💻 I like to code <br>
+      🚀 Currently sharpening my DSA skills & exploring System Design  <br>
+      💜 Creating cool stuff with React.js, Tailwind & Python   <br>
+      📊 Exploring Big Data tools like Hadoop, Spark, Kafka & Hive  <br>
+      👩‍💻Passionate about problem solving & clean code <br>
       ⚡ Data Structures and Algorithms<br>
-      🛠️ Learning Big Data Tools: Hadoop, Spark, Hive, Kafka, MapReduce
+      📖 Bookworm by heart | 💬 Let's talk tech & 🎤 Taylor Swift & 🎀 Songwriting   <br>
+      📩 Reach me at: [aditighate003@gmail.com](mailto:aditighate003@gmail.com)  <br> 
     </td>
     <td style="text-align: right; width: 30%;">
       <img src="https://www.wallpapers13.com/wp-content/uploads/2018/06/Purple-Galaxy-Space-Wallpaper-HD-for-Desktop-mobile-phones-laptops-and-tablets-3840x2400.jpg" width="300"/>
