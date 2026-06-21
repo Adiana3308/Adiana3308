@@ -6,7 +6,6 @@
       💜 Creating cool stuff with React.js, Tailwind & Python   <br>
       👩‍💻Passionate about problem solving & clean code <br>
       ⚡ Data Structures and Algorithms<br>
-      📖 Bookworm by heart | 💬 Let's talk tech & 🎤 Taylor Swift & 🎀 Songwriting   <br>
     </td>
     <td style="text-align: right; width: 30%;">
       <img src="https://www.wallpapers13.com/wp-content/uploads/2018/06/Purple-Galaxy-Space-Wallpaper-HD-for-Desktop-mobile-phones-laptops-and-tablets-3840x2400.jpg" width="300"/>
